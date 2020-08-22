@@ -12,6 +12,8 @@
 
 ### <center>Members</center>
 
+[EvanMeek/Evan](https://github.com/EvanMeek) None
+
 [KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
 
 [Reverses-233/Reverses](https://github.com/Reverses-233) TD
@@ -27,6 +29,8 @@
 [Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) & NY
 
 [QRQaccount/有趣的人与事](https://github.com/QRQaccount) & NY
+
+[Cheereus/陈十一](https://github.com/Cheereus) & NY
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
