@@ -32,6 +32,8 @@
 
 [Cheereus/陈十一](https://github.com/Cheereus) & NY
 
+[Trafalgar99/Trafal](https://github.com/Trafalgar99) & TD NY
+
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
 TD = Technology Department</br>
