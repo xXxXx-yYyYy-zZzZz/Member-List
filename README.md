@@ -4,11 +4,11 @@
 
 ### <center>Owner</center>
 
-[KiteAB](https://github.com/KiteAB)
+[**KiteAB**](https://github.com/KiteAB)
 
 ### <center>Admins</center>
 
-[Liziqian](https://github.com/liziqian1)
+[**Liziqian**](https://github.com/liziqian1)
 
 ### <center>Members</center>
 
