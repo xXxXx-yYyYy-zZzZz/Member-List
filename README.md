@@ -22,6 +22,10 @@
 
 [JimMoen/JimMoen](https://github.com/JimMoen) NY
 
+[DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
+
+[jameskid007/米虫](https://github.com/jameskid007) & TD
+
 [YZY1360/啊一哦诶](https://github.com/YZY1360) & NY
 
 [BoxMars/Box](https://github.com/BoxMars) & TD NY
