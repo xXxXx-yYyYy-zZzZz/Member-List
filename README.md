@@ -12,7 +12,7 @@
 
 ### <center>Members</center>
 
-[EvanMeek/Evan](https://github.com/EvanMeek) None
+[EvanMeek/Evan](https://github.com/EvanMeek) NY
 
 [KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
 
