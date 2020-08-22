@@ -12,5 +12,5 @@
 
 ### <center>Members</center>
 
-**Please studio members create the issue or pull request to make i know you github nickname**
+**Please create an issue or pull request for studio members to let me know your github nickname**
 
