@@ -12,7 +12,7 @@
 
 ### <center>Members</center>
 
-[YZY1360/啊一哦诶](https://github.com/YZY1360)
+[YZY1360/啊一哦诶](https://github.com/YZY1360)&
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
