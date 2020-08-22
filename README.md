@@ -36,6 +36,6 @@
 
 TD = Technology Department</br>
 PD = Propaganda Department</br>
-NY = Not yet
+NY = Not yet</br>
 &  = Unreviewed
 
