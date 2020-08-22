@@ -8,9 +8,11 @@
 
 ### <center>Admins</center>
 
-[**Liziqian**](https://github.com/liziqian1)
+[**Liziqian/李梓迁**](https://github.com/liziqian1)
 
 ### <center>Members</center>
+
+<center>[YZY1360/啊一哦诶][https://github.com/YZY1360]</center>
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
