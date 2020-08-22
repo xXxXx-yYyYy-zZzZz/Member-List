@@ -8,7 +8,7 @@
 
 ### <center>Admins</center>
 
-[**Liziqian/李梓迁**](https://github.com/liziqian1)
+[**liziqian1/李梓迁**](https://github.com/liziqian1)
 
 ### <center>Members</center>
 
