@@ -38,6 +38,8 @@
 
 [DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
 
+[xXxXx-yYyYy-zZzZz/QQ](https://github.com/xXxXx-yYyYy-zZzZz) & TD
+
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
 TD = Technology Department</br>
