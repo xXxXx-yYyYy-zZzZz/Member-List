@@ -12,23 +12,19 @@
 
 ### <center>Members</center>
 
-[EvanMeek/Evan](https://github.com/EvanMeek) NY
-
-[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
-
 [Reverses-233/Reverses](https://github.com/Reverses-233) TD
 
 [SpringHan/SpringHan](https://github.com/SpringHan) TD
 
+[EvanMeek/Evan](https://github.com/EvanMeek) NY
+
 [JimMoen/JimMoen](https://github.com/JimMoen) NY
 
-[DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
+[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
 
 [jameskid007/米虫](https://github.com/jameskid007) & TD
 
 [YZY1360/啊一哦诶](https://github.com/YZY1360) & NY
-
-[BoxMars/Box](https://github.com/BoxMars) & TD NY
 
 [Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) & NY
 
@@ -37,6 +33,10 @@
 [Cheereus/陈十一](https://github.com/Cheereus) & NY
 
 [Trafalgar99/Trafal](https://github.com/Trafalgar99) & TD NY
+
+[BoxMars/Box](https://github.com/BoxMars) & TD NY
+
+[DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
