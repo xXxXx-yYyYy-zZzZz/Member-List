@@ -18,9 +18,12 @@
 
 [Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) & NY
 
+[QRQaccount/有趣的人与事](https://github.com/QRQaccount) & NY
+
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
 TD = Technology Department</br>
 PD = Propaganda Department</br>
 NY = Not yet
+&  = Unreviewed
 
