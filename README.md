@@ -20,7 +20,7 @@
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
-TD = Technology Department
-PD = Propaganda Department
+TD = Technology Department</br>
+PD = Propaganda Department</br>
 NY = Not yet
 
