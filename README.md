@@ -12,6 +12,14 @@
 
 ### <center>Members</center>
 
+[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
+
+[Reverses-233/Reverses](https://github.com/Reverses-233) TD
+
+[SpringHan/SpringHan](https://github.com/SpringHan) TD
+
+[JimMoen/JimMoen](https://github.com/JimMoen) NY
+
 [YZY1360/啊一哦诶](https://github.com/YZY1360) & NY
 
 [BoxMars/Box](https://github.com/BoxMars) & TD NY
